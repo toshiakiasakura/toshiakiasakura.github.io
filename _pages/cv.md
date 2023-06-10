@@ -27,7 +27,7 @@ Skills
 
 Publications
 ======
-Please see [here](/publications/)
+Please see [here](/publications/).
 
 Grants, Awards and Scholarships
 =====
