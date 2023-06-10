@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Toshiaki R. Asakura's Page"
 title_separator          : "-"
 name                     : &name "Toshiaki R. Asakura"
-description              : &description "MSc at LSHTM"
+description              : &description "Researcher about Infectious Disease Modelling"
 url                      : https://toshiakiasakura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "toshiakiasakura/toshiakiasakura.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Toshiaki R. Asakura"
   avatar           : "profile.png"
-  bio              : "MSc at LSHTM"
+  bio              : "MSc Control of Infectious Disease at LSHTM"
   location         : "UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Toshiaki+Asakura&sort=date"
+  googlescholar    : "https://scholar.google.com/citations?user=Qn6IIroAAAAJ&hl=ja&oi=ao"
+  email            : "toshiaki.asakura1@student.lshtm.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Toshiaki-Asakura-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8838-785X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aki_asa_dove"
   vine             :
   weibo            :
   xing             :
