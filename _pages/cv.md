@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc Control of Infectious Diseases, London School of Hygiene & Tropical Medicine, 2022 - (present)
+* B.S. in Medicine, Hokkaido University, 2016 - 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April - August 2022: Academic Fellow
+  * Faculty of Medicine, Hokkaido University
+  * Supervisor: Professor Akiko Tamakoshi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming (Python, Julia, R, SAS, Stata, GitHub/Git, Docker/docker-compose, Typescript, Nginx)
+* Statistics, Infectious disease modelling, Epidemiology
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Please see [here](/publications/)
+
+Grants, Awards and Scholarships
+=====
+* The Rotary Foundation. Global grant scholarship, 2022
+* Hokkaido University, School of Medicine, Alumni Association President's Award, 2021
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* March to May, 2020, Scientific communication about basic countermeasures against COVID-19. Reports written in Japanses are found [here](https://no-more-corona.com/).
