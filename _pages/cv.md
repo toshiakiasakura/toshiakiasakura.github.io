@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSc Control of Infectious Diseases, London School of Hygiene & Tropical Medicine, 2022 - (present)
+* PhD in Nagasaki University, London School of Hygiene & Tropical Medicine Joint PhD Degree Programme for Global Health, 2023 - (present)
+* MSc Control of Infectious Diseases, London School of Hygiene & Tropical Medicine, 2022 - 2023 
 * B.S. in Medicine, Hokkaido University, 2016 - 2022
 
 Work experience
@@ -31,6 +32,9 @@ Please see [here](/publications/).
 
 Grants, Awards and Scholarships
 =====
+* Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships, 2024
+* British COuncil Japan Association Scholar Award, 2023
+* MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2022-23
 * The Rotary Foundation. Global grant scholarship, 2022
 * Hokkaido University, School of Medicine, Alumni Association President's Award, 2021
 
