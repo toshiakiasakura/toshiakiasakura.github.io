@@ -33,11 +33,11 @@ Please see [here](/publications/).
 Grants, Awards and Scholarships
 =====
 * Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships, 2024
-* British COuncil Japan Association Scholar Award, 2023
-* MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2022-23
+* British Council Japan Association Scholar Award, 2023
+* MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2023
 * The Rotary Foundation. Global grant scholarship, 2022
 * Hokkaido University, School of Medicine, Alumni Association President's Award, 2021
 
 Service and leadership
 ======
-* March to May, 2020, Scientific communication about basic countermeasures against COVID-19. Reports written in Japanses are found [here](https://no-more-corona.com/).
+* March to May, 2020, Scientific communication about basic countermeasures against COVID-19. The report written in Japanses are found [here](https://no-more-corona.com/).
