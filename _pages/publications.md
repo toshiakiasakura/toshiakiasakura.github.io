@@ -18,7 +18,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 († Equal contribution)
 
 ## Conference presentations
-1. **Toshiaki R., A.**, Sung-mok, J., Hiroaki, M., Fuminari, M., Akira, E., (2024). Projecting international mpox spread in Asia: ongoing global health risk, The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. (Poster presentation).
+1. **Toshiaki RA.**, Sung-mok, J., Hiroaki, M., Fuminari, M., Akira, E., (2024). Projecting international mpox spread in Asia: ongoing global health risk, The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. (Poster presentation).
 1. **Toshiaki, A.**, Kath OR., (2023). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance, 9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy. (Oral presentation).
 1. **Toshiaki, A.**, (2020.10). The student’s enlightenment activity against COVID-19: No More Corona Project. The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan.
 1. **Toshiaki, A.**, & Hiroshi, N. (2019.4). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Conference presentation]. World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan.
