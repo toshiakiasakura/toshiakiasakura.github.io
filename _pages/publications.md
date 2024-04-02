@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Toshiaki-Asakura-2) and [Google Scholar](https://scholar.google.com/citations?user=Qn6IIroAAAAJ&hl=ja&oi=ao).
+You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785X), [ResearchGate](https://www.researchgate.net/profile/Toshiaki-Asakura-2) and [Google Scholar](https://scholar.google.com/citations?user=Qn6IIroAAAAJ&hl=ja&oi=ao).
 
 <!-- Citation style is APA, fetched from google scholar -->
 ## Journal Publications
