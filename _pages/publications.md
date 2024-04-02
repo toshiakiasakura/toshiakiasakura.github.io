@@ -19,7 +19,7 @@ You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785
 († Equal contribution)
 
 ## Conference presentations
-1. **Toshiaki RA.**, Sung-mok, J., Hiroaki, M., Fuminari, M., Akira, E., (2024). Projecting international mpox spread in Asia: ongoing global health risk, The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. (Poster presentation).
-1. **Toshiaki, A.**, Kath OR., (2023). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance, 9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy. (Oral presentation).
-1. **Toshiaki, A.**, (2020.10). The student’s enlightenment activity against COVID-19: No More Corona Project. The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan.
-1. **Toshiaki, A.**, & Hiroshi, N. (2019.4). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Conference presentation]. World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan.
+1. **Asakura, T. R.**, Jung, S., Murayama, H., Miura, F., & Endo, A. (2024, January-February). Projecting international mpox spread in Asia: ongoing global health risk [Poster presentation]. The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan.
+1. **Asakura, T.**, & O'Reilly, K. M. (2023, December). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance [Oral presentation]. 9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy.
+1. **Asakura, T.** (2020, October). The student’s enlightenment activity against COVID-19: No More Corona Project [Oral presentation]. The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan.
+1. **Asakura, T.**, & Nishiura, H. (2019, April). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Poster presentation]. World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan.
