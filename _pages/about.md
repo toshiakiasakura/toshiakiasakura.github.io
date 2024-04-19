@@ -1,11 +1,7 @@
 ---
 permalink: /
-<<<<<<< HEAD
 title: "Toshiaki R. Asakura"
 excerpt: "About me"
-=======
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
->>>>>>> upstream/master
 author_profile: true
 redirect_from: 
   - /about/

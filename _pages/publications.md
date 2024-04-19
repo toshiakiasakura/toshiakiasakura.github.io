@@ -5,13 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<<<<<<< HEAD
 You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785X), [ResearchGate](https://www.researchgate.net/profile/Toshiaki-Asakura-2) and [Google Scholar](https://scholar.google.com/citations?user=Qn6IIroAAAAJ&hl=ja&oi=ao).
-=======
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
->>>>>>> upstream/master
 
 <!-- Citation style is APA, fetched from google scholar -->
 <!-- Add doi in the last part. -->
