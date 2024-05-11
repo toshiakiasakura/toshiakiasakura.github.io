@@ -10,6 +10,7 @@ You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785
 <!-- Citation style is APA, fetched from google scholar -->
 <!-- Add doi in the last part. -->
 ## Journal Publications
+1. Kurotori, I., **Asakura, T. R.**, Kimura, T., Hori, M., Hosozawa, M., Saijo, M., Iso, H., & Tamakoshi, A. (2024). The Association between COVID-19-Related Discrimination and Probable Post-Traumatic Stress Disorder among Patients with COVID-19 in Sapporo, Japan. Journal of Epidemiology, JE20230360, [doi:10.2188/jea.JE20230360](https://doi.org/10.2188/jea.JE20230360)
 1. Sunohara, S., **Asakura, T. R.**, Kimura, T., Saijo, M., & Tamakoshi, A. (2024). Traditional and Social Media Usage Associated With COVID-19 Vaccine Uptake in Sapporo, Japan. Asia Pacific Journal of Public Health, 10105395241240952. [doi:10.1177/10105395241240952](https://doi.org/10.1177/10105395241240952)
 1. **Asakura, T.**†, Kimura, T.†, Kurotori, I., Kenichi, K., Hori, M., Hosogawa, M., ... & Tamakoshi, A. (2023). Case–Control Study of Long COVID, Sapporo, Japan. Emerging Infectious Diseases, 29(5), 956. [doi:10.3201/eid2905.221349](https://doi.org/10.3201/eid2905.221349)
 1. Watanuki, D., Tamakoshi, A., Kimura, T., **Asakura, T.**, & Saijo, M. (2023). Patient characteristics and public health office factors associated with long reporting delay of COVID-19 cases in Sapporo City, Japan. Journal of Epidemiology, JE20220359. [doi:10.2188/jea.JE20220359](https://doi.org/10.2188/jea.JE20220359)
