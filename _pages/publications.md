@@ -9,6 +9,10 @@ You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785
 
 <!-- Citation style is APA, fetched from google scholar -->
 <!-- Add doi in the last part. -->
+
+## Preprints
+1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Projecting international mpox spread in Asia: ongoing global health risk. medRxiv, 2024-04. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
+
 ## Journal Publications
 1. Kurotori, I., **Asakura, T. R.**, Kimura, T., Hori, M., Hosozawa, M., Saijo, M., Iso, H., & Tamakoshi, A. (2024). The Association between COVID-19-Related Discrimination and Probable Post-Traumatic Stress Disorder among Patients with COVID-19 in Sapporo, Japan. Journal of Epidemiology, JE20230360, [doi:10.2188/jea.JE20230360](https://doi.org/10.2188/jea.JE20230360)
 1. Sunohara, S., **Asakura, T. R.**, Kimura, T., Saijo, M., & Tamakoshi, A. (2024). Traditional and Social Media Usage Associated With COVID-19 Vaccine Uptake in Sapporo, Japan. Asia Pacific Journal of Public Health, 10105395241240952. [doi:10.1177/10105395241240952](https://doi.org/10.1177/10105395241240952)
