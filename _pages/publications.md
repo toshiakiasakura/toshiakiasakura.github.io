@@ -7,12 +7,17 @@ author_profile: true
 
 You can also find my articles at my [ORCID](https://orcid.org/0000-0001-8838-785X), [ResearchGate](https://www.researchgate.net/profile/Toshiaki-Asakura-2) and [Google Scholar](https://scholar.google.com/citations?user=Qn6IIroAAAAJ&hl=ja&oi=ao).
 
-<!-- Citation style is APA, fetched from google scholar -->
+<!--
+Citation style is APA, fetched from google scholar
+or use doi to APA converter,
+https://paperpile.com/t/doi-to-apa-converter/
+ -->
 <!-- Add doi in the last part. -->
 
 ## Preprints
-1. **Asakura, T. R.**, & O'Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: a simulation-based study. medRxiv, 2024-08. [doi:10.1101/2024.08.17.24312151](https://doi.org/10.1101/2024.08.17.24312151)
-1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Projecting international mpox spread in Asia: ongoing global health risk. medRxiv, 2024-04. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
+1. Asakura, T. R., Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024). Characterising global risk profiles of Mpox clade Ib importation. medRxiv. [doi:10.1101/2024.09.09.24313259](https://doi.org/10.1101/2024.09.09.24313259)
+1. **Asakura, T. R.**, & O'Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: a simulation-based study. medRxiv. [doi:10.1101/2024.08.17.24312151](https://doi.org/10.1101/2024.08.17.24312151)
+1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
 
 ## Journal Publications
 1. Kurotori, I., **Asakura, T. R.**, Kimura, T., Hori, M., Hosozawa, M., Saijo, M., Iso, H., & Tamakoshi, A. (2024). The Association between COVID-19-Related Discrimination and Probable Post-Traumatic Stress Disorder among Patients with COVID-19 in Sapporo, Japan. Journal of Epidemiology, JE20230360, [doi:10.2188/jea.JE20230360](https://doi.org/10.2188/jea.JE20230360)
