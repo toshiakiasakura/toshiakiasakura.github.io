@@ -33,14 +33,14 @@ https://paperpile.com/t/doi-to-apa-converter/
 
 ## Conference presentations
 1. **Asakura, T. R.**, Jung, S., Murayama, H., Miura, F., & Endo, A. (2024, January-February). Projecting international mpox spread in Asia: ongoing global health risk [Poster presentation].
-The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. \[[Poster PDF](/files/20240118_mpox_JE_joint_symposium.pdf)\]
+The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. [Poster PDF](/files/20240118_mpox_JE_joint_symposium.pdf)
 1. **Asakura, T.**, & O'Reilly, K. M. (2023, December). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance [Oral presentation].
-9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy. \[[Slide PDF](/files/20231129_Epidemics_Toshiaki_Asakura.pdf)\]
+9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy. [Slide PDF](/files/20231129_Epidemics_Toshiaki_Asakura.pdf)
 1. **Asakura, T.** (2020, October). The student’s enlightenment activity against COVID-19: No More Corona Project [Oral presentation].
-The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan. \[[Slide PDF](/files/20201005_79th_annual_meeting_jpn_presentation.pdf)\]
+The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan. [Slide PDF](/files/20201005_79th_annual_meeting_jpn_presentation.pdf)
 1. **Asakura, T.**, & Nishiura, H. (2019, April). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Poster presentation].
-World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan. \[[Poster PDF](/files/20190525_poster_for_retreat_HN.pdf)\]
+World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan. [Poster PDF](/files/20190525_poster_for_retreat_HN.pdf)
 
 
 ## Academic outreach
-1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. Mpox Community Call at WHO Collaboratry. \[[Slide PDF](/files/20241017_WHO_collaboratory.pdf)\]
+1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. Mpox Community Call at WHO Collaboratry. [Slide PDF](/files/20241017_WHO_collaboratory.pdf)
