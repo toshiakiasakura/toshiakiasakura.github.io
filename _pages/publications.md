@@ -15,11 +15,12 @@ https://paperpile.com/t/doi-to-apa-converter/
 <!-- Add doi in the last part. -->
 
 ## Preprints
-1. Asakura, T. R., Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024). Characterising global risk profiles of Mpox clade Ib importation. medRxiv. [doi:10.1101/2024.09.09.24313259](https://doi.org/10.1101/2024.09.09.24313259)
+1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
 1. **Asakura, T. R.**, & O'Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: a simulation-based study. medRxiv. [doi:10.1101/2024.08.17.24312151](https://doi.org/10.1101/2024.08.17.24312151)
 1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
 
 ## Journal Publications
+1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. [doi:10.1093/jtm/taae136](https://doi.org/10.1093/jtm/taae136)
 1. Kurotori, I., **Asakura, T. R.**, Kimura, T., Hori, M., Hosozawa, M., Saijo, M., Iso, H., & Tamakoshi, A. (2024). The Association between COVID-19-Related Discrimination and Probable Post-Traumatic Stress Disorder among Patients with COVID-19 in Sapporo, Japan. Journal of Epidemiology, JE20230360, [doi:10.2188/jea.JE20230360](https://doi.org/10.2188/jea.JE20230360)
 1. Sunohara, S., **Asakura, T. R.**, Kimura, T., Saijo, M., & Tamakoshi, A. (2024). Traditional and Social Media Usage Associated With COVID-19 Vaccine Uptake in Sapporo, Japan. Asia Pacific Journal of Public Health, 10105395241240952. [doi:10.1177/10105395241240952](https://doi.org/10.1177/10105395241240952)
 1. **Asakura, T.**†, Kimura, T.†, Kurotori, I., Kenichi, K., Hori, M., Hosogawa, M., ... & Tamakoshi, A. (2023). Case–Control Study of Long COVID, Sapporo, Japan. Emerging Infectious Diseases, 29(5), 956. [doi:10.3201/eid2905.221349](https://doi.org/10.3201/eid2905.221349)
@@ -35,3 +36,6 @@ https://paperpile.com/t/doi-to-apa-converter/
 1. **Asakura, T.**, & O'Reilly, K. M. (2023, December). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance [Oral presentation]. 9th Epidemics International Conference on Infectious Disease Dynamics, Bologna, Italy.
 1. **Asakura, T.** (2020, October). The student’s enlightenment activity against COVID-19: No More Corona Project [Oral presentation]. The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan.
 1. **Asakura, T.**, & Nishiura, H. (2019, April). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Poster presentation]. World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan.
+
+## Academic outreach
+1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. Mpox Community Call at WHO Collaboratry. \[[Slide PDF](/files/20241017_WHO_collaboratory.pdf)\]

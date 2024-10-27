@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Nagasaki University, London School of Hygiene & Tropical Medicine Joint PhD Degree Programme for Global Health, 2023 - (present)
-* MSc Control of Infectious Diseases, London School of Hygiene & Tropical Medicine, 2022 - 2023 
+* MSc Control of Infectious Diseases, London School of Hygiene & Tropical Medicine, 2022 - 2023
 * B.S. in Medicine, Hokkaido University, 2016 - 2022
 
 Work experience
@@ -40,4 +40,4 @@ Grants, Awards and Scholarships
 
 Service and leadership
 ======
-* March to May, 2020, Scientific communication about basic countermeasures against COVID-19. The report written in Japanses are found [here](https://no-more-corona.com/).
+* March to May, 2020, Scientific communication about basic countermeasures against COVID-19. The report written in Japanese can be found [here](https://no-more-corona.com/).
