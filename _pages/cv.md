@@ -36,7 +36,7 @@ Grants, Awards and Scholarships
 * British Council Japan Association Scholar Award, 2023
 * MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2023
 * The Rotary Foundation. Global grant scholarship, 2022
-* Hokkaido University, School of Medicine, Alumni Association President's Award, 2021
+* Hokkaido University, School of Medicine, Alumni Association President's Award, 2022
 
 Service and leadership
 ======
