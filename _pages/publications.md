@@ -12,7 +12,6 @@ Citation style is APA, fetched from google scholar
 or use doi to APA converter,
 https://paperpile.com/t/doi-to-apa-converter/
  -->
-<!-- Add doi in the last part. -->
 
 ## Preprints
 1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
@@ -44,3 +43,9 @@ World-leading next generation MD researchers and training project 2019 National 
 
 ## Academic outreach
 1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. Mpox Community Call at WHO Collaboratry. [Slide PDF](/files/20241017_WHO_collaboratory.pdf)
+
+<!-- TODO: Add Misc section for the NIID articles.
+-->
+
+## Reviewer experience
+[BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1).
