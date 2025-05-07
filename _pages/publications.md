@@ -49,4 +49,4 @@ World-leading next generation MD researchers and training project 2019 National 
 -->
 
 ## Reviewer experience
-[BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1).
+[Scientific Reports](https://www.nature.com/srep/) (1), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1).
