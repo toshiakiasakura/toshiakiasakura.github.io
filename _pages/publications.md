@@ -14,6 +14,7 @@ https://paperpile.com/t/doi-to-apa-converter/
  -->
 
 ## Preprints
+1. Jin, S., **Asakura, T. R.**, Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccine demands to achieve outbreak control for MPXV Clade I with one-time mass campaign in sub-Saharan Africa: scenario-based modelling study. medRxiv, 2025-01. [doi:10.1101/2025.01.17.25320753](https://doi.org/10.1101/2025.01.17.25320753)
 1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
 1. **Asakura, T. R.**, & O'Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: a simulation-based study. medRxiv. [doi:10.1101/2024.08.17.24312151](https://doi.org/10.1101/2024.08.17.24312151)
 1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Projecting international mpox spread in Asia: ongoing global health risk. medRxiv. [doi:10.1101/2024.04.17.24305832](https://doi.org/10.1101/2024.04.17.24305832)
