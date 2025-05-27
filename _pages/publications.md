@@ -31,7 +31,7 @@ https://paperpile.com/t/doi-to-apa-converter/
 
 († Equal contribution)
 
-## Conference presentations
+## Conference Presentations
 1. **Asakura, T. R.**, Jung, S., Murayama, H., Miura, F., & Endo, A. (2024, January-February). Projecting international mpox spread in Asia: ongoing global health risk [Poster presentation].
 The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. [Poster PDF](/files/20240118_mpox_JE_joint_symposium.pdf)
 1. **Asakura, T.**, & O'Reilly, K. M. (2023, December). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance [Oral presentation].
@@ -42,11 +42,14 @@ The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan. 
 World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan. [Poster PDF](/files/20190525_poster_for_retreat_HN.pdf)
 
 
-## Academic outreach
+## Academic Outreach
 1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. Mpox Community Call at WHO Collaboratry. [Slide PDF](/files/20241017_WHO_collaboratory.pdf)
 
 <!-- TODO: Add Misc section for the NIID articles.
 -->
 
-## Reviewer experience
-[Scientific Reports](https://www.nature.com/srep/) (1), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1).
+## Reviewer Experience
+[PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1), [Scientific Reports](https://www.nature.com/srep/) (1), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1).
+
+## Acknowledged Publications
+1. Ishii, H., Takai, Y., Marui, Y., Yamazaki, Y., Kato, Y., & Kori, H. (2025). Uncovering influence of football players' behaviour on team performance in ball possession through dynamical modelling. arXiv preprint arXiv:2504.06574.
