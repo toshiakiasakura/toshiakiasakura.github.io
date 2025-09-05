@@ -14,10 +14,11 @@ https://paperpile.com/t/doi-to-apa-converter/
  -->
 
 ## Preprints
-1. Jin, S., **Asakura, T. R.**, Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccine demands to achieve outbreak control for MPXV Clade I with one-time mass campaign in sub-Saharan Africa: scenario-based modelling study. medRxiv, 2025-01. [doi:10.1101/2025.01.17.25320753](https://doi.org/10.1101/2025.01.17.25320753)
 1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
 
 ## Journal Publications
+1. Jin, S., **Asakura, T. R.**, Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccination strategies to achieve outbreak control for MPXV Clade I with a one-time mass campaign in sub-Saharan Africa: a scenario-based modelling study. [doi:10.1371/journal.pmed.1004726](https://doi.org/10.1371/journal.pmed.1004726)
+1. Jin, S., **Asakura, T. R.**, Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccine demands to achieve outbreak control for MPXV Clade I with one-time mass campaign in sub-Saharan Africa: scenario-based modelling study. medRxiv, 2025-01. [doi:10.1101/2025.01.17.25320753](https://doi.org/10.1101/2025.01.17.25320753)
 1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Modelling international spread of clade IIb mpox on the Asian continent. Bull World Health Organ. [doi:10.2471/BLT.24.291815](https://doi.org/10.2471/BLT.24.291815)
 1. **Asakura, T. R.**, & O’Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: A simulation-based study. PLoS One, 20(7), e0325789. [doi:10.1371/journal.pone.0325789](https://doi.org/10.1371/journal.pone.0325789)
 1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024). Characterising global risk profiles of Mpox clade Ib importation. Journal of Travel Medicine. [doi:10.1093/jtm/taae136](https://doi.org/10.1093/jtm/taae136)
