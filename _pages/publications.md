@@ -17,6 +17,7 @@ https://paperpile.com/t/doi-to-apa-converter/
 1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
 
 ## Journal Publications
+1. Jin, S., **Asakura, T. R.**, Murayama, H., Jung, S. M., Niyukuri, D., Nyandwi, J., Nkengurutse, L., Kamatari, O., Lim, J. T., Endo, A., & Dickens, B. L. (2025). Disentangling temporal trends of clade Ib monkeypox virus transmission in Burundi. The Journal of infectious diseases, jiaf475. [doi:infdis/jiaf475](https://doi.org/10.1093/infdis/jiaf475)
 1. Jin, S., **Asakura, T. R.**, Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccination strategies to achieve outbreak control for MPXV Clade I with a one-time mass campaign in sub-Saharan Africa: a scenario-based modelling study. [doi:10.1371/journal.pmed.1004726](https://doi.org/10.1371/journal.pmed.1004726)
 1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Modelling international spread of clade IIb mpox on the Asian continent. Bull World Health Organ. [doi:10.2471/BLT.24.291815](https://doi.org/10.2471/BLT.24.291815)
 1. **Asakura, T. R.**, & O’Reilly, K. M. (2024). Assessing early detection ability through spatial arrangements in environmental surveillance for poliovirus: A simulation-based study. PLoS One, 20(7), e0325789. [doi:10.1371/journal.pone.0325789](https://doi.org/10.1371/journal.pone.0325789)
@@ -52,4 +53,5 @@ World-leading next generation MD researchers and training project 2019 National 
 [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1), [Scientific Reports](https://www.nature.com/srep/) (1), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1), [Critical Public Health](https://www.tandfonline.com/journals/ccph20) (1).
 
 ## Acknowledged Publications
-1. Ishii, H., Takai, Y., Marui, Y., Yamazaki, Y., Kato, Y., & Kori, H. (2025). Uncovering influence of football players' behaviour on team performance in ball possession through dynamical modelling. arXiv preprint arXiv:2504.06574.
+1. Ishii, H., Takai, Y., Marui, Y., Yamazaki, Y., Kato, Y., & Kori, H. (2025). Uncovering influence of football players' behaviour on team performance in ball possession through dynamical modelling. arXiv preprint. [doi:10.48550/arXiv.2504.06574](
+https://doi.org/10.48550/arXiv.2504.06574)
