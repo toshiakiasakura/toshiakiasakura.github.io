@@ -50,7 +50,11 @@ World-leading next generation MD researchers and training project 2019 National 
 -->
 
 ## Reviewer Experience
-[PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1), [Scientific Reports](https://www.nature.com/srep/) (1), [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1), [Critical Public Health](https://www.tandfonline.com/journals/ccph20) (1).
+[PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1),
+[Scientific Reports](https://www.nature.com/srep/) (1),
+[BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1),
+[BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/) (1),
+[Critical Public Health](https://www.tandfonline.com/journals/ccph20) (1).
 
 ## Acknowledged Publications
 1. Ishii, H., Takai, Y., Marui, Y., Yamazaki, Y., Kato, Y., & Kori, H. (2025). Uncovering influence of football players' behaviour on team performance in ball possession through dynamical modelling. arXiv preprint. [doi:10.48550/arXiv.2504.06574](
