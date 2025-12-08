@@ -33,7 +33,7 @@ https://paperpile.com/t/doi-to-apa-converter/
 († Equal contribution)
 
 ## Conference Presentations
-1. **Asakura, T. R., Funk, S., & Endo, A. (2025, Dec). Survey design matters for capturingheterogeneity in social contacts:from exponential to scale-free. 10th Epidemics International Conference on Infectious Disease Dynamics, San Diego, US. [Poster PDF](/files/20251203_sc_model_comparison_Epidemics_ver2.pdf)
+1. **Asakura, T. R.**, Funk, S., & Endo, A. (2025, Dec). Survey design matters for capturingheterogeneity in social contacts:from exponential to scale-free [Poster presentation]. 10th Epidemics International Conference on Infectious Disease Dynamics, San Diego, US. [Poster PDF](/files/20251203_sc_model_comparison_Epidemics_ver2.pdf)
 1. **Asakura, T. R.**, Jung, S., Murayama, H., Miura, F., & Endo, A. (2024, January-February). Projecting international mpox spread in Asia: ongoing global health risk [Poster presentation].
 The 34th Annual Scientific Meeting of the Japan Epidemiological Association, Shiga Japan. [Poster PDF](/files/20240118_mpox_JE_joint_symposium.pdf)
 1. **Asakura, T.**, & O'Reilly, K. M. (2023, December). A quantitative simulation-based evaluation of the early detection of poliovirus using environmental surveillance [Oral presentation].
