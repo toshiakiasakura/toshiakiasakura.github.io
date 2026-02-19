@@ -52,7 +52,7 @@ World-leading next generation MD researchers and training project 2019 National 
 
 ## Reviewer Experience
 [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1),
-[Scientific Reports](https://www.nature.com/srep/) (1),
+[Scientific Reports](https://www.nature.com/srep/) (2),
 [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1),
 [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/) (1),
 [Critical Public Health](https://www.tandfonline.com/journals/ccph20) (1).
