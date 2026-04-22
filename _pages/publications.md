@@ -13,10 +13,13 @@ or use doi to APA converter,
 https://paperpile.com/t/doi-to-apa-converter/
  -->
 
+<!--
 ## Preprints
-1. Murayama, H.†, **Asakura, T. R.†**, Dickens, B. L., Foo, J. H., Jin, S., Mukadi, P. K., … Endo, A. (2024). Roles of community and sexual contacts as drivers of clade I mpox outbreaks. medRxiv. [doi:10.1101/2024.10.15.24315554](https://doi.org/10.1101/2024.10.15.24315554)
+-->
+
 
 ## Journal Publications
+1. Murayama, H.†,**Asakura, T. R.**†, Dickens, B. L., Boyle, D., Foo, J. H., Jin, S., ... & Endo, A. (2026). Role of community and sexual contacts as drivers of MPXV clade I. Nature Health, 1-12. [doi:10.1038/s44360-026-00080-7](https://doi.org/10.1038/s44360-026-00080-7)
 1. Jin, S., **Asakura, T. R.**, Murayama, H., Jung, S. M., Niyukuri, D., Nyandwi, J., Nkengurutse, L., Kamatari, O., Lim, J. T., Endo, A., & Dickens, B. L. (2025). Disentangling temporal trends of clade Ib monkeypox virus transmission in Burundi. The Journal of infectious diseases, jiaf475. [doi:infdis/jiaf475](https://doi.org/10.1093/infdis/jiaf475)
 1. Jin, S., Asakura, T. R., Murayama, H., Niyukuri, D., Saila-Ngita, D., Lim, J. T., ... & Dickens, B. L. (2025). Vaccination strategies to achieve outbreak control for MPXV Clade I with a one-time mass campaign in sub-Saharan Africa: A scenario-based modelling study. PLoS medicine, 22(9), e1004726. [doi:10.1371/journal.pmed.1004726](https://doi.org/10.1371/journal.pmed.1004726)
 1. **Asakura, T. R.**, Jung, S. M., Murayama, H., Ghaznavi, C., Sakamoto, H., Teshima, A., ... & Endo, A. (2024). Modelling international spread of clade IIb mpox on the Asian continent. Bull World Health Organ. [doi:10.2471/BLT.24.291815](https://doi.org/10.2471/BLT.24.291815)
