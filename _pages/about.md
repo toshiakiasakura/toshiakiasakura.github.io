@@ -27,4 +27,4 @@ Contact: toshiaki.asakura1[at]lshtm.ac.uk
 PDF version of my CV (as of 20260502): [file](files/Toshiaki_Asakura_CV_20260502.pdf)
 
 
-<img src="/images/profile_my_face2.png" width="300">
+<img src="/images/profile_my_face2.jpg" width="300">
