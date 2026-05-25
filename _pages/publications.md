@@ -51,12 +51,12 @@ World-leading next generation MD researchers and training project 2019 National 
 1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Mpox Community Call at WHO Collaboratry. [Slide PDF](/files/20241017_WHO_collaboratory.pdf)
 
 <!-- TODO: Add Misc section for the NIID articles.
-# Added, C1c06, C1c07. C10c8, C10c9,
+# Added, C1c06, C1c07. C1c8, C1c9, C1c10
 -->
 
 ## Reviewer Experience
 [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/) (1),
-[VeriXiv](https://verixiv.org/) (1),
+[VeriXiv](https://verixiv.org/) (2),
 [Nature Communication](https://www.nature.com/ncomms/) (1),
 [Scientific Reports](https://www.nature.com/srep/) (2),
 [BMC Public Health](https://bmcpublichealth.biomedcentral.com/) (1),
