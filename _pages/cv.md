@@ -32,11 +32,13 @@ Please see [here](/publications/).
 
 Grants, Awards and Scholarships
 =====
-* Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships, 2024
-* British Council Japan Association Scholar Award, 2023
-* MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2023
-* The Rotary Foundation. Global grant scholarship, 2022
-* Hokkaido University, School of Medicine, Alumni Association President's Award, 2022
+* Nagasaki University WISE programme (Doctoral Program for World-leading Innovative & Smart Education). Amount: ¥6,000,000 for 3-years.
+* Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships and JSPS KAKENHI
+(Grants-in-Aid for Research Fellow of the JSPS), no. 24KJ1827. Amount: ¥1,400,000 for 2-years.
+* British Council Japan Association Scholar Award, 2023. Amount: ¥150,000.
+* MSc Projects Funding, Trust Funds, London School of Hygiene & Tropical Medicine, 2023. Amount: £1000.
+* The Rotary Foundation. Global grant scholarship, 2022.
+* Hokkaido University, School of Medicine, Alumni Association President's Award, 2022.
 
 Service and leadership
 ======
