@@ -32,10 +32,10 @@ Please see [here](/publications/).
 
 Grants
 =====
-* 2024: Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships and JSPS KAKENHI
+* 2024-2026: Japan Society for the Promotion of Science (JSPS) DC1 Research Fellowships and JSPS KAKENHI
 (Grants-in-Aid for Research Fellow of the JSPS), no. 24KJ1827. Amount: ¥1,400,000 for 2-years.
 <!--- 日本学術振興会特別研究員 DC1, 研究奨励金140万円, 奨学金 720万円(20万円/月を3年間)。 --->
-* 2023: Nagasaki University WISE programme (Doctoral Program for World-leading Innovative & Smart Education). Amount: ¥6,000,000 for 3-years.
+* 2023-2027: Nagasaki University WISE programme (Doctoral Program for World-leading Innovative & Smart Education). Amount: ¥6,000,000 for 3-years.
 
 Awards & Scholarship
 =====
