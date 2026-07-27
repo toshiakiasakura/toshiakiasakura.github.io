@@ -17,6 +17,8 @@ https://paperpile.com/t/doi-to-apa-converter/
 ## Preprints
 -->
 
+## Preprints
+1. Ito H., Shigeta K., **Asakura, T. R.**, Morita, S.. (2026). Cross-country structure of a sexual contact network derived from a commercial-sex review platform. arXiv. [doi:10.48550/arXiv.2607.21972](https://doi.org/10.48550/arXiv.2607.21972)
 
 ## Journal Publications
 1. Murayama, H.†,**Asakura, T. R.**†, Dickens, B. L., Boyle, D., Foo, J. H., Jin, S., ... & Endo, A. (2026). Role of community and sexual contacts as drivers of MPXV clade I. Nature Health, 1-12. [doi:10.1038/s44360-026-00080-7](https://doi.org/10.1038/s44360-026-00080-7)
