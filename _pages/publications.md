@@ -48,6 +48,8 @@ The 79th annual meeting of the Japanese Society of Public Health, Kyoto, Japan. 
 1. **Asakura, T.**, & Nishiura, H. (2019, April). Monitoring the transmissibility of highly pathogenic avian influenza (H5N1) virus in poultry: A birth-death skyline model [Poster presentation].
 World-leading next generation MD researchers and training project 2019 National Retreat, Nagoya, Japan. [Poster PDF](/files/20190525_poster_for_retreat_HN.pdf)
 
+## Other publications
+Jung, S.-M., **Asakura, T. R.**, Murayama, H., & Endo, A. (2026). Introduction of Andes hantavirus into sexual networks as an adverse scenario: lessons from the 2022 global mpox outbreak. Journal of Infection. [10.1016/j.jinf.2026.106896](https://doi.org/10.1016/j.jinf.2026.106896) 
 
 ## Academic Outreach
 1. **Asakura, T. R.**, Jung, S.-M., Jin, S., Hu, G., Endo, A., & Dickens, B. L. (2024, October). Mpox Community Call at WHO Collaboratry. [Slide PDF](/files/20241017_WHO_collaboratory.pdf)
